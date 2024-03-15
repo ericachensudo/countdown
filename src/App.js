@@ -1,18 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import BubbleChart from './BubbleChart';
+import data from './erica.json';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
+        <h1>Bubble Chart Visualization</h1>
+        <BubbleChart data={data} />
       </header>
     </div>
   );

@@ -1,0 +1,58 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "things i loved to learn in school",
+      "children": [
+        {
+          "name": "computer science",
+          "children": [
+            { "name": "", "value": 3 },
+            { "name": "", "value": 3 }
+          ]
+        },
+        {
+          "name": "statistics",
+          "children": [
+            { "name": "", "value": 3 },
+            { "name": "", "value": 3 }
+          ]
+        },
+        {
+          "name": "women studies",
+          "children": [
+            { "name": "", "value": 3 },
+            { "name": "", "value": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LiFe experiences",
+      "children": [
+        { "name": "National Science Foundation (Research)", "value": 3 },
+        { "name": "Capital One (SWE)", "value": 3 },
+        { "name": "Microsoft (TPM)", "value": 3 },
+        { "name": "Stealth @ Columbia Business School (PM)", "value": 3 },
+        { "name": "Salesforce (SWE)", "value": 3 }
+      ]
+    },
+    {
+      "name": "favorite time suckers",
+      "children": [
+        { "name": "tap dance", "value": 3 },
+        { "name": "thrift shopping", "value": 3 },
+        { "name": "building random projects", "value": 1 },
+        { "name": "scrapbooking", "value": 3 }
+      ]
+    },
+    {
+      "name": "figuring out what it means to give back",
+      "children": [
+        { "name": "", "value": 3 },
+        { "name": "", "value": 3 },
+        { "name": "", "value": 3 }
+      ]
+    }
+  ]
+}
